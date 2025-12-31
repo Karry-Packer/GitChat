@@ -1,0 +1,10 @@
+python-telegram-bot
+flask
+requests
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-google-genai
+sentence-transformers
+faiss-cpu
